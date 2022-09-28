@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Changmle 생각모음"
+title                    : "생각모음"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Changmle"
-description              : "성장하는 인재입니다."
+description              : "개인적인 공부 및 생각을 적는 블로그입니다."
 url                      : "https://dlckgn.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dlckgn@gmail.com"
+      url: "mailto:dlckgn2003@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://dlckgn.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/dlckgn"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
