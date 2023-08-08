@@ -25,8 +25,8 @@ code .
 
 설정방법은 간단하다.
 
-1. vscode를 열고 ```cmd + shit + p```로 명령 팔레트를 열어준다.
-2. 팔레트```code```라고 검색하면 나오는 ```Shell Command: Install 'code' command in PATH'```를 클릭하여 설치한다.
+1. vscode를 열고 `cmd + shit + p`로 명령 팔레트를 열어준다.
+2. 팔레트`code`라고 검색하면 나오는 `Shell Command: Install 'code' command in PATH`를 클릭하여 설치한다.
 
-과정이 모두 끝난 후에 vscode로 열기 원하는 디렉토리에 접근하여 ```code .```를
+과정이 모두 끝난 후에 vscode로 열기 원하는 디렉토리에 접근하여 `code .`를
 입력하면 vscode가 해당 디렉토리를 기준으로 열리게 된다.
