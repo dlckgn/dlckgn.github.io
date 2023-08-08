@@ -2,8 +2,10 @@
 main:
   - title: "블로그 방문하기"
     url: https://dlckgn.github.io/
-  - title: "윤동주"
-    url: /categories/윤동주/
+  - title: "WEB"
+    url: /categories/WEB/
+  - title: "Tip"
+    url: /categories/Tip/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
